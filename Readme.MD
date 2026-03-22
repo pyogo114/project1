@@ -12,3 +12,7 @@ Oke kali ini ada minor update untuk versi 1.1 yang kita namakan 1.1.1 update
 
 Update kecil saja diletakkan disini
 
+Setelah update ini maka akan di merge perubahan ini ke project 1.1
+
+Sempurna
+
